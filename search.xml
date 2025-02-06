@@ -86,8 +86,8 @@
     
     <entry>
       <title>基于hexo+github的博客搭建资料参考</title>
-      <link href="/2024/05/30/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%B5%84%E6%96%99%E5%8F%82%E8%80%83/"/>
-      <url>/2024/05/30/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%B5%84%E6%96%99%E5%8F%82%E8%80%83/</url>
+      <link href="/2024/05/29/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%B5%84%E6%96%99%E5%8F%82%E8%80%83/"/>
+      <url>/2024/05/29/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%B5%84%E6%96%99%E5%8F%82%E8%80%83/</url>
       
         <content type="html"><![CDATA[<p>基本思路是软件安装+主题配置的思路，一些参考资料如下：</p><p><strong>搭建个人博客网站</strong> <a href="https://mubu.com/doc/5OeZGO2XKgh">https://mubu.com/doc/5OeZGO2XKgh</a></p><p><strong>如何使用Hexo搭建个人博客</strong> <a href="https://blog.csdn.net/qq_38695100/article/details/136577256?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-136577256-blog-136575449.235">https://blog.csdn.net/qq_38695100/article/details/136577256?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-136577256-blog-136575449.235</a></p><p><strong>Hexo+Github：个人博客的搭建</strong> <a href="https://www.bilibili.com/video/BV16b4y1G7fo/?spm_id_from=333.337.search-card.all.click&vd_source=08af59d628d4d6d7788604a21fc95761">https://www.bilibili.com/video/BV16b4y1G7fo/?spm_id_from=333.337.search-card.all.click&amp;vd_source=08af59d628d4d6d7788604a21fc95761</a></p><p><strong>butterfly安装文档</strong> <a href="https://butterfly.js.org/posts/21cfbf15/">https://butterfly.js.org/posts/21cfbf15/</a></p><p><strong>hexo魔改 | 添加 Valine 评论系统</strong> <a href="https://blog.csdn.net/DaphneOdera17/article/details/138255181">https://blog.csdn.net/DaphneOdera17/article/details/138255181</a></p>]]></content>
       
