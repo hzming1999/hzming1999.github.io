@@ -3,9 +3,9 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "农业产业及组织",
+  "新型农业经营主体与农民合作社",
+  "数字经济"
 ]
 
 [[sections]]
@@ -17,7 +17,7 @@ title = "关于我"
 [[sections]]
 id = "featured_publications"
 type = "publications"
-title = "精选论文"
+title = "论文工作"
 filter = "selected"
 limit = 5
 
