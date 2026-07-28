@@ -23,12 +23,3 @@
 - 参加第283期[浙大卡特三农论坛](https://mp.weixin.qq.com/s/bazc7kFIJunHdl5eqPhYzg)论文汇报
 - [实地走访](https://mp.weixin.qq.com/s/bazc7kFIJunHdl5eqPhYzg)日本的集落营农组织、滋贺县农业技术振兴中心、滋贺县甲贺市合同厅本馆和三重县伊贺市Mokumoku农场等
 
-## 技能
-
-- **编程：** Python, C++, MATLAB, LaTeX
-- **数据分析：** Pandas, NumPy, SciPy
-- **语言：** 中文（母语）, 英文（流利）
-
-## 奖项与荣誉
-
-- **示例竞赛一等奖** - 某某评审委员会 (*2024*)
