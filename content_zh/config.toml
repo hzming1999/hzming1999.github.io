@@ -46,7 +46,7 @@ target = "services"
 href = "/services"
 
 [[navigation]]
-title = "简历"
+title = "教育"
 type = "page"
 target = "cv"
 href = "/cv"
